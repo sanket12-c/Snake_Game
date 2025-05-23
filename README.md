@@ -1,5 +1,5 @@
 
-# Snake Game - Fullscreen with Settings & Heart-shaped Food
+# Snake Game - Fullscreen with Settings
 
 A modern, fullscreen Snake game built using Python and Pygame, featuring smooth gameplay and a customizable experience.
 
